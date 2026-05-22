@@ -1,3 +1,8 @@
+# npm依赖
 node_modules/
-dist/
-.env
+
+# 打包生成文
+build/
+
+# 系统文件
+.DS_Store

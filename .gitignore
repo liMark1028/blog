@@ -1,8 +1,12 @@
 # npm依赖
 node_modules/
 
-# 打包生成文
+# 打包生成文件
+dist/
 build/
+
+# 环境变量（密码、密钥）
+.env
 
 # 系统文件
 .DS_Store

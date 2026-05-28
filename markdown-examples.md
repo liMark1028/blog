@@ -1,11 +1,4 @@
-<!--
- * @title: 
- * @Autor: li yu mo
- * @Date: 2026-05-13
- * @LastEditors: li yu mo
- * @LastEditTime: 2026-05-13
- * @FilePath: /liyumo-blog/markdown-examples.md
--->
+
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
